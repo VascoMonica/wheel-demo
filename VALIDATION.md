@@ -28,7 +28,7 @@ These are empirical comparison results for the checked inputs and samples, not a
 
 The supplied drawing classes were executed with an offline native-Canvas adapter. The actual standalone controller was exercised against DOM and Canvas test adapters for:
 
-- Initial `(5, 5, 5, 5)` configuration.
+- Initial `(6, 6, 6, 6)` configuration.
 - Mouse and touch-coordinate drags on all four arms, including a 320-pixel display width.
 - Position limits and snapping to positions 1–12.
 - Release confirmation, cancellation and control locking.

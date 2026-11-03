@@ -10,7 +10,7 @@ Este paquete sustituye la demo anterior. El archivo principal ya se llama `index
 4. Comprueba que aparecen la rueda azul, los brazos a franjas rojas y beige, los pesos negros y la rampa gris.
 5. Arrastra un peso, pulsa **Release the Wheel** y confirma. Para una prueba rápida puedes escoger **8×** en **Animation speed**. La puntuación será la misma.
 
-La configuración inicial es `(5, 5, 5, 5)`, como en el código oTree recibido. Puedes establecer una configuración exacta desplegando **Set exact positions**.
+La configuración inicial es `(6, 6, 6, 6)`, la configuración de partida acordada para la demo. Puedes establecer una configuración exacta desplegando **Set exact positions**.
 
 ## 2. Subir los archivos al repositorio existente
 

@@ -6,7 +6,7 @@ const slopeAngleRad=14*Math.PI/180,targetDistance=92,slopeLength=92;
   const $=id=>document.getElementById(id),names=['North','East','South','West'];
   const inputs='NESW'.split('').map(n=>$('position-'+n));
   const nf=new Intl.NumberFormat('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
-  const initial=[5,5,5,5],state={phase:'editing',round:1,best:null,history:[],selected:null,drag:null,raf:0};
+  const initial=[6,6,6,6],state={phase:'editing',round:1,best:null,history:[],selected:null,drag:null,raf:0};
   let app,resultApp,historyApp,wheel,startText,arrivalText;
   const confirmDialog=$('confirm-dialog'),resultDialog=$('result-dialog'),wrap=$('app');
   const reduced=()=>window.matchMedia('(prefers-reduced-motion: reduce)').matches;

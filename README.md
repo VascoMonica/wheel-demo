@@ -6,7 +6,7 @@ Interactive demo accompanying **Reinventing the Wheel**. Move four weights to ma
 
 Open `index.html` in a current browser, keeping the `assets` folder beside it. The same files can be hosted on GitHub Pages. There is no build step, package installation, Python server or oTree session to start.
 
-Drag the dark weights along the four striped arms. The configuration order is **North, East, South, West**. Positions run from 1, nearest the centre, to 12, farthest out. The initial configuration is `(5, 5, 5, 5)`, as specified in the supplied oTree project.
+Drag the dark weights along the four striped arms. The configuration order is **North, East, South, West**. Positions run from 1, nearest the centre, to 12, farthest out. The initial configuration is `(6, 6, 6, 6)`, the neutral start requested for this public demo.
 
 Click **Release the Wheel**, confirm, and watch the wheel descend. Select **Continue to the next round** for another attempt. There is no round limit. Previous rounds can be inspected and reused. The exact-position controls provide a keyboard alternative to dragging.
 
